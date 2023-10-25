@@ -28,7 +28,6 @@ Register No: 212222230051
   ```Python
   df.head()
   df.info()
-  df.info()
   ```
   <br>
   <img height=12% width=55% src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex06/assets/119393515/01c70133-1ac6-4ae9-b95d-dfead150c640">
