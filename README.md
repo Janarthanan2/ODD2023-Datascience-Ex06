@@ -58,6 +58,7 @@ Register No: 212222230051
   <img height=20% width=49% src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex06/assets/119393515/4bf162c5-c530-493f-b8e2-851c1db7ed55">
   <img height=20% width=49% src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex06/assets/119393515/58774166-3946-4c78-acd7-65a6373e5a0d">
   <img height=20% width=49% src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex06/assets/119393515/af700f30-05d9-4803-a11b-2b01f04d995b">  
+
 ## Log Transformation:
   ```Python
   df['Highly Positive Skew'] = np.log(df['Highly Positive Skew'])
