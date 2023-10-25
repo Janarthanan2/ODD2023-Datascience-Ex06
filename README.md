@@ -24,7 +24,7 @@ Register No: 212222230051
   from sklearn.preprocessing import PowerTransformer
   df=pd.read_csv("Data_to_Transform.csv")
   ```
-- Basic Information:
+## Basic Information:
   ```Python
   df.head()
   df.info()
