@@ -1,9 +1,9 @@
 # Datascience-Ex06 FEATURE TRANSFORMATION
-### Aim:
+## Aim:
 To read the given data and perform Feature Transformation process and save the data to a file.
-### Explanation:
+## Explanation:
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
-### Algorithm:
+## Algorithm:
 - Step1: Read the given Data.
 - Step2: Clean the Data Set using Data Cleaning Process.
 - Step3: Apply Feature Transformation techniques to all the features of the data set.
